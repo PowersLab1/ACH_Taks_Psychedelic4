@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ACH_Task_Short_Psychedelic4/precache-manifest.9b1970ec9f51d6c0de9b591c0aa61bf1.js"
+  "/ACH_Task_Short_Psychedelic4/precache-manifest.6ab1e7edc627aeb08f70f3bfeef3fb59.js"
 );
 
 self.addEventListener('message', (event) => {
